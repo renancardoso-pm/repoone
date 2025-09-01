@@ -1,2 +1,8 @@
-# repo_one
-NaN
+# ML Study:
+- Pandas
+- Matplotlib
+- Seaborn
+
+Pré-processamento:
+- Data Tyding
+- Unie  Bivariada analise
